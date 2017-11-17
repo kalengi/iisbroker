@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISBroker", "IISBroker\IISBroker.csproj", "{F6530434-FCFF-4B9E-A708-D2A5D06A1739}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupIISBroker", "SetupIISBroker\SetupIISBroker.vdproj", "{F4874A5E-2F25-4F17-B2ED-3F3EF1BF03A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6530434-FCFF-4B9E-A708-D2A5D06A1739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6530434-FCFF-4B9E-A708-D2A5D06A1739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6530434-FCFF-4B9E-A708-D2A5D06A1739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6530434-FCFF-4B9E-A708-D2A5D06A1739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4874A5E-2F25-4F17-B2ED-3F3EF1BF03A9}.Debug|Any CPU.ActiveCfg = Debug
+		{F4874A5E-2F25-4F17-B2ED-3F3EF1BF03A9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
